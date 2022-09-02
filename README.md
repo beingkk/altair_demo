@@ -1,6 +1,6 @@
 # altair_demo
 
-Hi! Set up the repo by running the following commands
+Hi! Set up the repo by running the following commands from the terminal
 ```
 $ git clone https://github.com/beingkk/altair_demo
 $ conda create --name altair_demo python=3.9
