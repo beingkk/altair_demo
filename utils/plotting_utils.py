@@ -38,7 +38,6 @@ def nestafont():
     return {
         "config": {
             "title": {"font": TITLE_FONT, "anchor": "start"},
-            "subtitle": {"font": FONT},
             "axis": {"labelFont": FONT, "titleFont": FONT},
             "header": {"labelFont": FONT, "titleFont": FONT},
             "legend": {"labelFont": FONT, "titleFont": FONT},
