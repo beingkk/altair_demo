@@ -3,3 +3,4 @@ altair
 altair-saver
 selenium
 webdriver-manager
+vega_datasets
