@@ -17,3 +17,5 @@ Feel free to use your favourite python development environment for this. For exa
 $ pip install jupyterlab
 $ jupyter lab
 ```
+
+Alternatively you can run this [Colab notebook](https://colab.research.google.com/drive/1madLsAVTEG6w3Diq2M9pQRipuVMe9eEF#scrollTo=5-doehyqy8hZ) (it will have a slightly reduced functionality, eg you won’t be able to export png and svg figures).
