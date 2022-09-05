@@ -9,4 +9,11 @@ $ cd altair_demo
 $ pip install -r requirements.txt
 ```
 
-And then run the tutorial notebook. Best of luck!
+And then run the tutorial notebook `tutorial_Altair_charts.ipynb`.
+
+Feel free to use your favourite python development environment for this. For example, if you'd prefer jupyter lab, then you can install and run it by running these commands from the terminal:
+
+```
+$ pip install jupyterlab
+$ jupyter lab
+```
